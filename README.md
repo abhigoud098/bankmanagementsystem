@@ -39,7 +39,7 @@ A **Java-based OOP (Object-Oriented Programming)** project that simulates real-w
 ---
 
 ## 🏗️ Project Structure
-
+```
 bankmanagementsystem/
 │
 ├── model/
@@ -50,4 +50,5 @@ bankmanagementsystem/
 │ └── Main.java
 │
 └── README.md
+```
 

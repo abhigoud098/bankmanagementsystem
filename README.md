@@ -40,3 +40,14 @@ A **Java-based OOP (Object-Oriented Programming)** project that simulates real-w
 
 ## 🏗️ Project Structure
 
+bankmanagementsystem/
+│
+├── model/
+│ ├── Account.java
+│ ├── CurrentAccount.java
+│ ├── SavingAccount.java
+│ ├── Transaction.java
+│ └── Main.java
+│
+└── README.md
+

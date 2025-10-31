@@ -40,6 +40,9 @@ public abstract class Account {
     // Abstract Withdraw Method
     abstract void withdraw(double amount);
 
+    // Abstract Deposit Method
+    abstract void deposit(double amount);
+
     // Get AccountNumber Method
     public String getAccountNumber() {
         return accountNumber;
